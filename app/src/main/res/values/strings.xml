@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Gdzie jest kanar</string>
+
+    <string name="cont">menu</string>
+
+    <string name="show_notification">Notification</string>
+
+    <string name="my_lines">show only my lines</string>
+
+    <string name="tram">Tram</string>
+    <string name="bus">Bus</string>
+    <string-array name="tram_list">
+    <item>0L</item>
+    <item>0P</item>
+    <item>1</item>
+    </string-array>
+
+
+
+
+    <string name="notification">com.example.qlass.gdziejestkanar.sharedpreferences.notification</string>
+    <string name="my_lines_check">com.example.qlass.gdziejestkanar.sharedpreferences.lines</string>
+    <string name="saved_lines">com.example.qlass.gdziejestkanar.sharedpreferences.saved.lines</string>
+    <string name="show_data">Data</string>
+    <string name="lines_saved">Zapisane linie</string>
+    <string name="Choose_your_lines">Wybierz swoje linie</string>
+    <string name="show_my_lines">com.example.qlass.gdziejestkanar.sharedpreferences.show.my.lines</string>
+</resources>
